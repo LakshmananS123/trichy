@@ -1,0 +1,26 @@
+
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import "https://fonts.googleapis.com/icon?family=Material+Icons";
+@import "../node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css";
+
+*{
+    padding:10;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.container{
+    padding: 10%;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    
+}
+// .l{
+//     color: red;
+// }
+// .b{
+//    height: 20px;
+//    width: 400px;
+// }
